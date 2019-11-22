@@ -1,0 +1,29 @@
+HTML
+CSS
+JSX
+<br> tags
+this keyword
+== vs ===
+let vs const vs var
+null in JS?
+with underline in link
+javascript pros and cons
+console.log() Output questions
+hyperlink in html + example
+what is stylesheet
+Section divide with br tags
+* form get vs post request
+* Visibilty css property
+* JSON.stringify() ?
+* javascript vs ajax?
+* Class vs Functional component JSX?
+* Inline vs block element?
+* Padding vs Margin
+CSS Flexbox with example
+Relative and absolute diff css
+* Media queries with syntax and examples
+* What is JS strict mode
+* Characterstics of strict mode
+* Different ways html element can be accessed in JS
+* HTML table building
+* List element in HTML

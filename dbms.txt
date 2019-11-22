@@ -1,0 +1,35 @@
+Table concat syntax
+Cuurrent sql version
+Priamry key Candidate key
+char vs varchar
+foriegn key
+Joins
+different types of joins
+different types of trigger
+stored procedure understanding + usage
+delete table vs truncate table
+asset property
+current date in mysql
+database null value test
+highest salary
+maximum salary
+nth salary
+DDL DML DCL
+common mysql functions
+Contraints?
+different set operations
+join and union
+createIndexes?
+100TH record starting from 25th
+showIndex()
+% vs _ in LIKE statement
+float vs double
+column comparison operator
+ROWS effected when we run query
+What objects can be created using create syntax
+filter duplicate data
+Now vs current date
+self , inner, right, left joins
+MYSQL pros and cons
+MYSQL 5 functions
+INDEX creating query
